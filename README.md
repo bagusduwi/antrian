@@ -1,1 +1,1 @@
-# antrian
+php artisan migrate dulu
